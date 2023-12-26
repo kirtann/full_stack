@@ -71,7 +71,7 @@
     ### Visualization Tools
     - **Gantt Charts:** Visualize project timelines and dependencies.
     - **Flowcharts:** Illustrate workflows and processes for better understanding.
-    - **Timeline table and marking of milestones and achievement:** Tabular visualization for bettere time management and achievement tracking.
+    - **Timeline table and marking of milestones and achievement:** Tabular visualization for better time management and achievement tracking.
 
     ### ***Unique Features***
     - **Learning Integration:** Seamlessly integrate learning resources for skill development like roadmaps and links for related technology used in project.
